@@ -4,7 +4,13 @@ This is the python code and data accompanying the journal article [The Quantitat
 
 Figure numbers as indicated in the python script filenames.
 
-Data used is included as csv files. An updated version of the data is available from the [US Bureau of Economic Analysis Website](https://apps.bea.gov/itable/iTable.cfm?ReqID=70&step=1).
+Data used is included as csv files. 
+
+World Bank Group data are from [World Development Indicators](http://datatopics.worldbank.org/world-development-indicators/).
+
+[Our World in Data](https://ourworldindata.org/grapher/urbanization-vs-gdp) creates its own data compilation, which supplements the World Bank Collections also with some adjustments from the scientific literature. 
+
+An updated version of the data is available from the [US Bureau of Economic Analysis Website](https://apps.bea.gov/itable/iTable.cfm?ReqID=70&step=1).
 
 ## Authors
 
